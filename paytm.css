@@ -1,0 +1,110 @@
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font: 17px;
+}
+.main-container{
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.submaincont{
+    display: flex;
+    align-items: center;
+    
+}
+.submaincont p{
+    margin-left: 10px;
+}
+.button{
+    padding: 10px;
+    color: white;
+    background-color: aqua;
+     border-radius: 100px;
+}
+.main-container p{
+padding-right: 30px;
+}
+.signlogo{
+    height: 20px;
+}
+.seccont img{
+    height: 20px;    
+}
+.seccont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(226, 225, 225);
+}
+.seccont p{
+    display: flex;
+    align-items: center;
+}
+
+.phone img{
+    height: 300px;
+}
+.submaincontainer img{
+    height: 50px;
+}
+.submaincontainer{
+    width: 30%;
+  
+}
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.submaincontainer p{
+    font-size: 20px;
+}
+.submaincontainer h1{
+    font-size: 54px;
+    margin: 0;
+    padding: 0;
+}
+.button2{
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    width: 200px ;
+    font-size: 15px!important;
+   
+}
+.button2 img{
+    width: 20px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
